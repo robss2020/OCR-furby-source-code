@@ -20,7 +20,7 @@ the unindented code and many OCR mistakes make this far from a faithful full rep
 
 ## Example side-by-side comparison:
 
-![ Side by side comparison of PDF and OCR output.](comparison.png "Far from perfect") .
+![ Side by side comparison of PDF and OCR output.](https://github.com/robss2020/OCR-furby-source-code/blob/main/comparison.PNG "Far from perfect") .
 
 License
 For licensing information see the original Archive.org source. No license is claimed or implied, this accessibility copy is produced as-is under fair use doctrine based on the Archive.org PDF source.
